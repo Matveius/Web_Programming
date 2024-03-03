@@ -63,3 +63,9 @@ public class Main {
     System.out.println("Корень из x: " + Math.sqrt(x));
   }
 }
+```
+
+### Контактная информация:
+- Телефон: +375(29)344-16-31
+- Эл. почта: shinkarev.matvei@mail.ru
+- Telegram: [@m_shink](https://t.me/m_shink)
